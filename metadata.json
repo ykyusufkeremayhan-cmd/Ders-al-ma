@@ -1,0 +1,6 @@
+{
+  "name": "Maarif Akademi",
+  "description": "5, 6, 7 ve 8. sınıf Türkiye Yüzyılı Maarif Modeli konu anlatımları, etkileşimli testler, seviye belirleme, düello modu ve performans analizi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
